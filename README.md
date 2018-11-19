@@ -11,9 +11,10 @@ There are 3 folders here.
 ### Installing
 
 1. clone the repo
-2. `npm install`
-3. `node installModules.js` to install all dependencies on each services
-4. `node buildAndDeploy.js` to build and deploy all React pages to "S3" (which is actually just another folder on this repo)`
+2. `cd micro-frontend`
+3. `npm install`
+4. `node installModules.js` to install all dependencies on each services
+5. `node buildAndDeploy.js` to build and deploy all React pages to "S3" (which is actually just another folder on this repo)`
 
 ## Deployment
 
