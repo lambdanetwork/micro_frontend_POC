@@ -1,4 +1,6 @@
-# Micro Frontend
+
+
+# Micro Frontend Proof Of Concept
 
 Microfrontend is ongoing concept, several methods are developed to achieve this. My approach is to deploy each page or services as code in a cdn. Much like jquery where browser load the jquery and execute the code on runtime
 
